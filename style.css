@@ -1,0 +1,51 @@
+body
+
+h4{
+
+    background-color: white;
+    line-height: 2;
+    margin: 0px;
+    
+    }
+    
+    .my-dialog{
+    
+    width: 90%;
+    
+    }
+    .instruction_image{
+    
+    width: 45%;
+    display: inline-block;
+    }
+    .heading{
+
+        width: 100%;
+    
+    }
+    
+    .ppg{
+    
+    text-align: left;
+    font-size: 30px;
+    }
+    
+    #IN{
+    
+    float: right;
+    
+    }
+    
+    .play,.h3{
+    
+    font-size: 30px;
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px red;
+    }
+
+    canvas{
+
+border: 2px solid black;
+
+
+    }
